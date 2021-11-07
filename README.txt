@@ -23,6 +23,6 @@ How To Use
 
 4. Deploy
 
-5. On overview, select configure add-ons and add, configure your scheduler
+5. On overview, select configure add-ons and add it then set your scheduler
 
 
